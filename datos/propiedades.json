@@ -4,7 +4,7 @@
             "tipo": "Rent",
             "clasificacion": "Apartment",
             "descripcion": "Con buena ubicación especial para pareja",
-            "imagen": "assets/img/property-1.jpg",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-1.jpg",
             "precio": 550.95,
             "detalle": {
                 "area":75,
@@ -18,7 +18,7 @@
             "tipo": "Sale",
             "clasificacion": "House",
             "descripcion": "Familiar, cálida y muy espociosa",
-            "imagen": "assets/img/property-2.jpg",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-2.jpg",
             "precio": 190345.15,
             "detalle": {
                 "area":200,
@@ -32,7 +32,7 @@
             "tipo": "Rent",
             "clasificacion": "Loft",
             "descripcion": "Especial para estudiantes, bien ubicado",
-            "imagen": "assets/img/property-3.jpg",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-3.jpg",
             "precio": 255.99,
             "detalle": {
                 "area":45,
@@ -46,7 +46,7 @@
             "tipo": "Sale",
             "clasificacion": "Apartment",
             "descripcion": "Todo lo que necesita para vivir",
-            "imagen": "assets/img/property-4.jpg",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-4.jpg",
             "precio": 145700.00,
             "detalle": {
                 "area":120,
@@ -60,7 +60,7 @@
             "tipo": "Rent",
             "clasificacion": "House",
             "descripcion": "Lujosa casa para rentar",
-            "imagen": "assets/img/property-5.jpg",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-5.jpg",
             "precio": 3750.50,
             "detalle": {
                 "area":350,
@@ -73,7 +73,7 @@
             "tipo": "Sale",
             "clasificacion": "Loft",
             "descripcion": "Estudio muy acogedor bien ubicado",
-            "imagen": "assets/img/property-6.jpg",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-6.jpg",
             "precio": 85000.00,
             "detalle": {
                 "area":35,
