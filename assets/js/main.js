@@ -215,6 +215,7 @@
 let latitude, longitude;
 const apiKey = "80a7d8348ad98411c007756283a97677"; // Your OpenWeatherMap API Key
 
+$(document).ready(function () {
   // API Key and URL definitions
 
   const propiedadesUrl = "https://si0sgs.github.io/EstateAgency/datos/propiedades.json";
@@ -319,4 +320,5 @@ function displayWeatherData(data) {
 // Recargar datos de clima al hacer clic en la tabla
 document.getElementById("climaTabla").addEventListener("click", () => {
     fetchWeatherData(latitude, longitude); // Usa las variables públicas latitude y longitude
+});
 });
